@@ -1,6 +1,6 @@
 # Quasar App
 
-Welcome to the Quasar Codesandbox template (interim solution). You can do everything in the dev environment of the Quasar CLI, just not run CLI commands. With this environment though, you can share more in-depth code involving Vuex, Vue-router and other app extenstions too. This of it like an advanced JSFiddle or Codepen scenario, but with more bells and whistles from Vue and Quasar. 
+Welcome to the Quasar Codesandbox template (interim solution). You can do everything in the dev environment of the Quasar CLI, just not run CLI commands. With this environment though, you can share more in-depth code involving Vuex, Vue-router and other app extensions too. This of it like an advanced JSFiddle or Codepen scenario, but with more bells and whistles from Vue and Quasar. 
 
 **Tip!!**
 If you need to run in SSR or PWA dev mode, change the "scripts/start" entry in package.json to 
